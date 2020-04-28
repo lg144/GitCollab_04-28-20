@@ -7,4 +7,8 @@ Git collaboration workshop
 
 ##Branches
 - `git branch <branchname>`: create a new branch
-- `git switch <branchname>`:
+- `git switch <branchname>`: move to a branch
+  - `git checkout <branchname>`: old way of moving to branch
+
+- `git switch -c <branchname>`: Create and move in one command
+  - `git checkout -b <branchname>`
