@@ -21,4 +21,5 @@ Git collaboration workshop
     - this is where you will create the pull request online
     - you merge the PR (and also the branch) by accepting and merging the PR
   - don't forget to clean up your Branches- `git fetch --prune`: cleans up the references in your `git log --oneline --all --graph --decorate`
+  - `git branch -d <branchname>`: this will safely delete the branch
     - it till tell you to move to another branch first (make sure you're not on the branch you're trying to delete)
