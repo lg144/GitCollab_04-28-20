@@ -12,3 +12,6 @@ Git collaboration workshop
 
 - `git switch -c <branchname>`: Create and move in one command
   - `git checkout -b <branchname>`
+
+- `git stash`
+  - `git stash apply`
