@@ -5,7 +5,7 @@ Git collaboration workshop
   - Make sure you don't nest this command in another repository
   - Just like `git init` do this only once per repository
 
-##Branches
+## Branches
 - `git branch <branchname>`: create a new branch
 - `git switch <branchname>`: move to a branch
   - `git checkout <branchname>`: old way of moving to branch
